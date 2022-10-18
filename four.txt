@@ -1,2 +1,2 @@
 four
-double four
+4
